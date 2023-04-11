@@ -102,7 +102,7 @@ API endpoint list are also available as published postman documentation
 
 ## Related Project
 
-:rocket: [`Frontend Ankasa`](https://github.com/preedok/FE-ANKASA)
+:rocket: [`Frontend Ankasa`](https://github.com/alifankebima/ankasa-frontend)
 
 :rocket: [`Backend Ankasa`](https://github.com/alifankebima/ankasa-backend)
 
