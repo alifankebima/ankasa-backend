@@ -12,7 +12,7 @@ const commonHelper = require("./src/helper/common");
 app.use(express.json());
 app.use(cors({
     methods: ["GET", "PUT", "POST", "DELETE"],
-    origin: [`${process.env.NODEMAILER_FRONTEND_URL}`]
+    origin: [`https://ankasa2023.vercel.app`]
 }));
 app.use(morgan("dev"));
 app.use(helmet());
